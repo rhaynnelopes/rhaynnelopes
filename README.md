@@ -3,14 +3,14 @@
 <a href="https://www.linkedin.com/in/rhaynnelopes/"><h1 align="center"> <p style="color:lightgrey">Rhaynne Lopes </h1></a></p>
 
 
-<h2> 🧙🏻 Sobre mim </h2>
+<h1> 🧙🏻 Sobre mim </h1>
 
 Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Porto Alegre, no Rio Grande do Sul. Tenho interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e Javascript.
 
  <h2>:mortar_board: Formação acadêmica</h2>
   • Engenharia de Software - Pontifícia Universidade Católica do Rio Grande do Sul
 
-<h2> Vamos bater um papo? </h2>
+<h1> Vamos bater um papo? </h1>
 
 <a href="mailto:rhaynnelopes@hotmail.com">
     <img height='53' img alt="E-mail" src="https://i.postimg.cc/25VPH8BZ/aplicativo-de-caixa-de-entrada-de-correio-1.png">
