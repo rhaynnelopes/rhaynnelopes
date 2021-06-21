@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/rhaynnelopes/"><h1 align="center"> Rhaynne Lopes </h1></a>
 
 
-<h2> Sobre mim </h2>
+<h2> 🧙🏻 Sobre mim </h2>
 
 Tenho 21 anos e moro em Porto Alegre, Rio Grande do Sul. Atualmente, sou estudante do curso de Engenharia de Software na Universidade Católica do Rio Grande do Sul (PUCRS)
 
