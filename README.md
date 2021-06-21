@@ -11,9 +11,9 @@ Tenho 21 anos e moro em Porto Alegre, Rio Grande do Sul. Atualmente, sou estudan
 
 
 
+<br>
 
-
-<table align='left'>
+<table align='center'>
   <row>
     <td>
      <!-- Card -->
@@ -24,3 +24,4 @@ Tenho 21 anos e moro em Porto Alegre, Rio Grande do Sul. Atualmente, sou estudan
     </td>
   </row>
 </table>
+<br/>
