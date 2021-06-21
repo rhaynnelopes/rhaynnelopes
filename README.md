@@ -9,6 +9,10 @@ Tenho 21 anos e moro em Porto Alegre, Rio Grande do Sul. Atualmente, sou estudan
 <a href="https://www.linkedin.com/in/rhaynnelopes/"><li>LinkedIn</li></a>
 <a href="mailto:rhaynnelopes@hotmail.com"><li>E-mail</li></a>
 
+
+
+
+
 <table align='left'>
   <row>
     <td>
