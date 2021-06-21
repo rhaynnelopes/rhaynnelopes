@@ -42,14 +42,15 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 <table align='center'>
   <row>
     <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&theme=dark'>
-    </td>
-    <td>
       <img height='172' src='https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=dark'>
     </td>
   </row>
 </table>
+
+
+
 <br/>
 <br/> 
 <br/>
+
+![Snake animation](https://github.com/rafaballerini/rhaynnelopes/blob/output/github-contribution-grid-snake.svg)
