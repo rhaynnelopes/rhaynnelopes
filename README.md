@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=rhaynnelopes&color=lightgrey&label=visitas)
+
 <a href="https://www.linkedin.com/in/rhaynnelopes/"><h1 align="center"> Rhaynne Lopes </h1></a>
 
 
