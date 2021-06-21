@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/rhaynnelopes/"><h1> Rhaynne Lopes </h1></a>
+<a href="https://www.linkedin.com/in/rhaynnelopes/"><h1 align="center"> Rhaynne Lopes </h1></a>
 
 
 <h2> Sobre mim </h2>
