@@ -6,9 +6,13 @@
 <h1> 🧙🏻 Sobre mim </h1>
 
 Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Porto Alegre, no Rio Grande do Sul. Tenho interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e Javascript.
+<br> <br/>
+<br> <br/>
 
- <h2>:mortar_board: Formação acadêmica</h2>
+ <h1>:mortar_board: Formação acadêmica</h1>
   • Engenharia de Software - Pontifícia Universidade Católica do Rio Grande do Sul
+  <br> <br/>
+  <br> <br/>
 
 <h1> Vamos bater um papo? </h1>
 
