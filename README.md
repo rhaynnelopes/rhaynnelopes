@@ -13,7 +13,7 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 <h2> Vamos bater um papo? </h2>
 
 <a href="mailto:rhaynnelopes@hotmail.com">
-    <img height='60' img alt="E-mail" src="https://i.postimg.cc/25VPH8BZ/aplicativo-de-caixa-de-entrada-de-correio-1.png">
+    <img height='53' img alt="E-mail" src="https://i.postimg.cc/25VPH8BZ/aplicativo-de-caixa-de-entrada-de-correio-1.png">
   </a>  
 
 <a href="https://www.linkedin.com/in/rhaynnelopes/">
