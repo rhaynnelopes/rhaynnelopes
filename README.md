@@ -2,13 +2,7 @@
 
 <a href="https://www.linkedin.com/in/rhaynnelopes/"><h1 align="center"> <p style="color:lightgrey">Rhaynne Lopes </h1></a></p>
 
-<table align='right'>
-  <row>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=dark'>
-    </td>
-  </row>
-</table>
+
 <h1> 🧙🏻 Sobre mim </h1>
 
 Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Porto Alegre, no Rio Grande do Sul. Tenho interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e Javascript.
@@ -20,7 +14,16 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
   <br> <br/>
  
 
-<h1> Vamos bater um papo? </h1>
+<h1> Vamos bater um papo? </h1> 
+
+<table align='right'>
+  <row>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table>
+
 
 <a href="mailto:rhaynnelopes@hotmail.com">
     <img height='53' img alt="E-mail" src="https://i.postimg.cc/25VPH8BZ/aplicativo-de-caixa-de-entrada-de-correio-1.png">
@@ -41,22 +44,6 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 
   
   
-<br>
-<br>
-<br>
 
-<table align='right'>
-  <row>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=dark'>
-    </td>
-  </row>
-</table>
-
-
-
-<br/>
-<br/> 
-<br/>
 
 ![Snake animation](https://github.com/rhaynnelopes/rhaynnelopes/blob/output/github-contribution-grid-snake.svg)
