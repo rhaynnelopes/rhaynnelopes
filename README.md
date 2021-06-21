@@ -13,7 +13,7 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 <h2> Vamos bater um papo? </h2>
 
 <a href="https://www.linkedin.com/in/rhaynnelopes/">
-    <img height='17' img alt="Linkedin" src="https://i.postimg.cc/KzhZXMbT/discordia.png">
+    <img height='30' img alt="Linkedin" src="https://i.postimg.cc/KzhZXMbT/discordia.png">
   </a>  
 
 <br>
