@@ -5,7 +5,7 @@
 
 Tenho 21 anos e moro em Porto Alegre, Rio Grande do Sul. Atualmente, sou estudante do curso de Engenharia de Software na Universidade Católica do Rio Grande do Sul (PUCRS)
 
-### :mortar_board: Formação acadêmica
+ <h2>:mortar_board: Formação acadêmica</h2>
   - Engenharia de Software - Pontifícia Universidade Católica do Rio Grande do Sul
 
 <h2> Contato </h2>
