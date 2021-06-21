@@ -53,4 +53,4 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 <br/> 
 <br/>
 
-![Snake animation](https://github.com/rafaballerini/rhaynnelopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rhaynnelopes/blob/output/github-contribution-grid-snake.svg)
