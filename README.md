@@ -2,7 +2,13 @@
 
 <a href="https://www.linkedin.com/in/rhaynnelopes/"><h1 align="center"> <p style="color:lightgrey">Rhaynne Lopes </h1></a></p>
 
-
+<table align='right'>
+  <row>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table>
 <h1> 🧙🏻 Sobre mim </h1>
 
 Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Porto Alegre, no Rio Grande do Sul. Tenho interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e Javascript.
@@ -39,7 +45,7 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 <br>
 <br>
 
-<table align='center'>
+<table align='right'>
   <row>
     <td>
       <img height='172' src='https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=dark'>
