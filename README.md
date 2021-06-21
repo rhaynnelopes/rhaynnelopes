@@ -13,10 +13,10 @@ Tenho 21 anos e moro em Porto Alegre, Rio Grande do Sul. Atualmente, sou estudan
   <row>
     <td>
      <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gelzieny&layout=compact&theme=dark'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&theme=dark'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gelzieny&show_icons=true&theme=dark'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=dark'>
     </td>
   </row>
 </table>
