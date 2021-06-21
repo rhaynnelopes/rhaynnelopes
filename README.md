@@ -12,17 +12,17 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 
 <h2> Vamos bater um papo? </h2>
 
-<a href="mailto:rhaynnelopes@hotmail.com">
+<p><a href="mailto:rhaynnelopes@hotmail.com">
     <img height='53' img alt="E-mail" src="https://i.postimg.cc/25VPH8BZ/aplicativo-de-caixa-de-entrada-de-correio-1.png">
-  </a>  
+  </a>  <p/>
 
-<a href="https://www.linkedin.com/in/rhaynnelopes/">
+<p><a href="https://www.linkedin.com/in/rhaynnelopes/">
     <img height='45' img alt="Linkedin" src="https://i.postimg.cc/xj49Yh9Y/linkedin.png">
-  </a>  
+  </a>  <p/>
   
-<a href="https://open.spotify.com/user/12165267481?si=339d511c898e448c">
+<p><a href="https://open.spotify.com/user/12165267481?si=339d511c898e448c">
     <img height='45' img alt="Spotify" src="https://i.postimg.cc/3NcGF1Mp/spotify.png">
-  </a>  
+  </a>  <p/>
   
   
 <br>
