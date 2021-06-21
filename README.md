@@ -5,21 +5,16 @@
 
 <h2> 🧙🏻 Sobre mim </h2>
 
-Tenho 21 anos e moro em Porto Alegre, Rio Grande do Sul. Atualmente, sou estudante do curso de Engenharia de Software na Universidade Católica do Rio Grande do Sul (PUCRS)
+Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Porto Alegre, no Rio Grande do Sul. Tenho interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e Javascript.
 
  <h2>:mortar_board: Formação acadêmica</h2>
   • Engenharia de Software - Pontifícia Universidade Católica do Rio Grande do Sul
 
-<h2> Contato </h2>
-<a href="https://www.linkedin.com/in/rhaynnelopes/"><li>LinkedIn</li>
+<h2> Vamos bater um papo? </h2>
 
-<img alt="Linkedin" src="discordia.png">
-
-
-</a>
-<a href="mailto:rhaynnelopes@hotmail.com"><li>E-mail</li></a>
-
-
+<a href="https://www.linkedin.com/in/rhaynnelopes/">
+    <img alt="Linkedin" src="https://postimg.cc/NybhmL5G">
+  </a>  
 
 <br>
 <br>
