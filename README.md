@@ -35,7 +35,7 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
     <img height='45' img alt="Telegram" src="https://i.postimg.cc/pVhD04Z4/telegrama.png">
   </a>  &nbsp;&nbsp;&nbsp;
   
-
+<br> <br/>
   
    <div>
   <a href="https://github.com/RaquelSev">
