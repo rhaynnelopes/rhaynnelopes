@@ -38,9 +38,11 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 <br> <br/>
   
    <div>
+    <div align=center>
   <a href="https://github.com/rhaynnelopes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=7&theme=dark"/>
+   <\div align>
 </div>
 
 
