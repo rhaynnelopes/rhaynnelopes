@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=rhaynnelopes&color=lightgrey&label=visitas)
-![](https://img.shields.io/github/followers/rhaynnelopes.svg?style=social&label=Follow&maxAge=2592000)
 
 <a href="https://www.linkedin.com/in/rhaynnelopes/">
     <h1 align="center">
@@ -48,11 +47,13 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
     <a href="https://steamcommunity.com/id/rhaynnelopes/">
         <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
     </a> 
-<div>
-<a href="https://github.com/rhaynnelopes">
-        <div style="display: inline_block">
-    <img height="160em"src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true&locale=pt-br"/> 
-    <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
-    </a>
-    </div>
-    ![Snake animation](https://github.com/rhaynnelopes/rhaynnelopes/blob/output/github-contribution-grid-snake.svg)
+
+
+ <div>
+  <a href="https://github.com/rhaynnelopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=16&theme=react"/>
+</div>
+    
+    
+    !.[Snake animation](https://github.com/rhaynnelopes/rhaynnelopes/blob/output/github-contribution-grid-snake.svg)
