@@ -41,7 +41,9 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>&nbsp
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=16&theme=react"/>
 </div>
-    <div>
+    
+    <br> </br>
+    <div align="center">
      <a href="mailto:rhaynnelopes@hotmail.com">
         <img alt="E-mail"src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
