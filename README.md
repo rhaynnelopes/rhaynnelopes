@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=rhaynnelopes&color=lightgrey&label=visitas)
 
-##<a href="https://www.linkedin.com/in/rhaynnelopes/"><h1 align="center"> <p style="color:lightgrey">Rhaynne Lopes </h1></a></p>
+<a href="https://www.linkedin.com/in/rhaynnelopes/"><h1 align="center"> <p style="color:lightgrey">Rhaynne Lopes </h1></a></p>
 
 
 <h1> 🧙🏻 Sobre mim </h1>
@@ -10,10 +10,11 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 
 
  <h1>:mortar_board: Formação acadêmica</h1>
-  • Engenharia de Software - Pontifícia Universidade Católica do Rio Grande do Sul
+  <strong>• Engenharia de Software </strong> - Pontifícia Universidade Católica do Rio Grande do Sul
   <br> <br/>
   
-  <h1>:mortar_board: Tecnologias que estou estudando</h1>
+  <h1>:books: Tecnologias que estou estudando</h1>
+  
  
 
 <h1> Vamos bater um papo? </h1> 
@@ -40,11 +41,10 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
 <br> <br/>
   
    <div>
-    <div align=center>
   <a href="https://github.com/rhaynnelopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=7&theme=react"/>
-  
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=7&theme=react"/>
+  </div>
 
 
 ![Snake animation](https://github.com/rhaynnelopes/rhaynnelopes/blob/output/github-contribution-grid-snake.svg)
