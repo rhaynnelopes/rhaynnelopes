@@ -36,7 +36,13 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
  </div>
     <h1>         </h1>
     <br>
-    <a href="mailto:rhaynnelopes@hotmail.com">
+ <div>
+  <a href="https://github.com/rhaynnelopes">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>&nbsp
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=16&theme=react"/>
+</div>
+    <div>
+     <a href="mailto:rhaynnelopes@hotmail.com">
         <img alt="E-mail"src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/rhaynnelopes/">
@@ -48,10 +54,4 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
     <a href="https://steamcommunity.com/id/rhaynnelopes/">
         <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
     </a> 
-
-
- <div>
-  <a href="https://github.com/rhaynnelopes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>&nbsp
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=16&theme=react"/>
-</div>
+    </div>
