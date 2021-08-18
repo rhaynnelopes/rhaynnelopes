@@ -49,6 +49,7 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
         <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
     </a> 
 <div>
+    <div style="display: inline_block">
 <a href="https://github.com/rhaynnelopes">
     <img height="160em"src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true&locale=pt-br"/> 
     <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
