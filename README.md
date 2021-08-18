@@ -19,9 +19,9 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
 
 <br> </br>
 
+<h2>:books: • tecnologias que estou estudando</h2>
 <div>
     <div style="display: inline_block">
-        <h2>:books: • tecnologias que estou estudando</h2>
         <img align="center" alt="Javascript"
             src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         <img align="center" alt="HTML"
@@ -30,8 +30,11 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
      <img align="center" alt="Java"
             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+        <img align="center" alt="MySQL"
+            src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <br> </br>
  </div>
+     <div align="center">
     <h1>         </h1>
     <br>
     <a href="mailto:rhaynnelopes@hotmail.com">
@@ -48,6 +51,8 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
     </a> 
 
 <div>
-<a href="https://github.com/rhaynnelopes"><img height="180em"src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true&locale=pt-br" /> <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=7&theme=react&locale=pt-br" /> </div>
+<a href="https://github.com/rhaynnelopes">
+    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true&locale=pt-br" /> 
+    <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=7&theme=react&locale=pt-br" /> </div>
 
     ![Snake animation](https://github.com/rhaynnelopes/rhaynnelopes/blob/output/github-contribution-grid-snake.svg)
