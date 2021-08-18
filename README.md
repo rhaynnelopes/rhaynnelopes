@@ -54,6 +54,4 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
   <a href="https://github.com/rhaynnelopes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>&nbsp
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=16&theme=react"/>
-      
-       ![Snake animation](https://github.com/rhaynnelopes/rhaynnelopes/blob/output/github-contribution-grid-snake.svg)
 </div>
