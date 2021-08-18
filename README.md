@@ -11,13 +11,13 @@
 Meu nome é Rhaynne, mas pode me chamar de Rhay, tenho 21 anos e moro em Porto Alegre, no Rio Grande do Sul. Tenho
 interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e Javascript.
 
-<br>
+<br> </br>
 
 
 <h2>:mortar_board: • formação acadêmica (cursando)</h2>
 <strong>:computer: • Engenharia de Software </strong> - Pontifícia Universidade Católica do Rio Grande do Sul
 
-<br>
+<br> </br>
 
 <div>
     <div style="display: inline_block">
@@ -30,7 +30,7 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
      <img align="center" alt="Java"
             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-        <br>
+        <br> </br>
  </div>
     <h1>         </h1>
     <br>
