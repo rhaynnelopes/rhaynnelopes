@@ -12,6 +12,8 @@ Meu nome é Rhaynne, mas pode me chamar de Rhay 😜, tenho 21 anos e moro em Po
  <h1>:mortar_board: Formação acadêmica</h1>
   • Engenharia de Software - Pontifícia Universidade Católica do Rio Grande do Sul
   <br> <br/>
+  
+  <h1>:mortar_board: Tecnologias que estou estudando</h1>
  
 
 <h1> Vamos bater um papo? </h1> 
