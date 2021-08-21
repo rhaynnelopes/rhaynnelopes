@@ -1,11 +1,26 @@
 ![](https://komarev.com/ghpvc/?username=rhaynnelopes&color=lightgrey&label=visitas)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
+
 <a href="https://www.linkedin.com/in/rhaynnelopes/">
     <h1 align="center">
         Rhaynne Lopes
         </a>
     </h1>
-    <br> </br>
+    <div align="center">
+     <a href="mailto:rhaynnelopes@hotmail.com">
+        <img alt="E-mail"src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/rhaynnelopes/">
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://open.spotify.com/user/12165267481?si=339d511c898e448c">
+        <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    </a>
+    <a href="https://steamcommunity.com/id/rhaynnelopes/">
+        <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+    </a> 
+    </div>
 
 <h2> 🧙🏻 • sobre mim </h2>
 Meu nome é Rhaynne, mas pode me chamar de Rhay, tenho 21 anos e moro em Porto Alegre, no Rio Grande do Sul. Tenho
@@ -39,21 +54,8 @@ interesse na área de front-end, iniciei recentemente os estudos em HTML, CSS e 
  <div>
     <div align="center">
   <a href="https://github.com/rhaynnelopes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>&nbsp
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=16&theme=react"/> </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaynnelopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynnelopes&layout=compact&langs_count=16&theme=tokyonight"/> </a>
 </div>
     <br> </br>
-    <div align="center">
-     <a href="mailto:rhaynnelopes@hotmail.com">
-        <img alt="E-mail"src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/rhaynnelopes/">
-        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://open.spotify.com/user/12165267481?si=339d511c898e448c">
-        <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    </a>
-    <a href="https://steamcommunity.com/id/rhaynnelopes/">
-        <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-    </a> 
-    </div>
+    
